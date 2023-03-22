@@ -14,3 +14,7 @@ install expo
 npm i expo
 build to apk (android)
 expo build:android
+
+
+*LINK DOWNLOAD APLIKASI DAN BUKTI ScreenShoot Aplikasi* 
+https://drive.google.com/drive/folders/1ebeD0g-9j-OcodDOrRuPnfG90JuSiCWW?usp=sharing
