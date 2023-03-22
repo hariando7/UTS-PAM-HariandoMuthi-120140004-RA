@@ -4,7 +4,7 @@
 
 # [*LINK DOWNLOAD APLIKASI DAN BUKTI ScreenShoot Aplikasi*](https://drive.google.com/drive/folders/1ebeD0g-9j-OcodDOrRuPnfG90JuSiCWW?usp=sharing)
 
-# [Link Laporan Pengerjaan UTS PAM RA_120140004](https://github.com/hariando7/UTS-PAM-HariandoMuthi-120140004-RA)
+# [Link Laporan Pengerjaan UTS PAM RA_120140004](https://github.com/hariando7/UTS-PAM-HariandoMuthi-120140004-RA/tree/main/Laporan)
 
 ## Instalasi Aplikasi
 1. Sebelum menjalankan sebaiknya membaca dokumentasi yang disediakan, kemudian melakukan install vs code, dan settup Reac Native
