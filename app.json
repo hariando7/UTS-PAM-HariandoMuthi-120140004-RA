@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "UTS-HariandoMuthi-120140004",
+    "slug": "UTS-HariandoMuthi-120140004",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hariando7.UTSHariandoMuthi120140004"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "937eb3bd-e883-440d-8683-c9bd638d381a"
+      }
+    }
+  }
+}
