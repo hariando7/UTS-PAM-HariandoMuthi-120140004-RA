@@ -1,7 +1,5 @@
 # UTS-PAM-HariandoMuthi-120140004-RA
 
-<img src="Petualangan Si Pele/Aset/UML/LOGO.png" width="100%">
-
 # [Github Link Hariando Muthi_120140004 UTS PAM RA](https://github.com/hariando7/UTS-PAM-HariandoMuthi-120140004-RA)
 
 # [*LINK DOWNLOAD APLIKASI DAN BUKTI ScreenShoot Aplikasi*](https://drive.google.com/drive/folders/1ebeD0g-9j-OcodDOrRuPnfG90JuSiCWW?usp=sharing)
